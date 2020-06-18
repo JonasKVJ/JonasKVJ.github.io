@@ -6,13 +6,11 @@ layout: home
 ---
 
 <HTML>
-
-<body>
- <h1>Header h1 Test</h1>
-
- <p>A paragraph</p>
- <p>Another paragraph</p>
-</body>
+  <body>
+    <h1>Header h1 Test</h1>
+    <p>A paragraph</p>
+    <p>Another paragraph</p>
+  </body>
 </HTML>
 
 
