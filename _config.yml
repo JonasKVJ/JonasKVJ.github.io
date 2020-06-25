@@ -16,7 +16,7 @@
 title: Portfolio
 email: jonaskaneborg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio project, intended to practice as eell as showcase front-end and full-stack skills. It is obviously very much a work-in-progress, and may/may not become a priority in the near future. Despite this, if looking for new hires, please feel free to send an email any time. 
+  Portfolio project, intended to practice as well as showcase front-end and full-stack skills. It is obviously very much a work-in-progress, and may/may not become a priority in the near future. Despite this, if looking for new hires, please feel free to send an email any time. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jonaskvj
