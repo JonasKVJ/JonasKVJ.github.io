@@ -6,7 +6,8 @@ layout: home
 ---
 
 <HTML>
-  <body> 
+  <body>
+    {{- site.description | escape -}}
   </body>
 </HTML>
 
